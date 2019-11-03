@@ -4,13 +4,11 @@ Rotten Oranges
 Distance of nearest cell having 1 in a binary matrix	
 Smallest Multiple With 0 and 1	
 Shortest Distance in a Maze	
-Number of islands	
+Number of islands
 Commutable Islands	
 Possibility of finishing all courses given pre-requisites	
 Dijsktra	
 Shortest Distance in a graph with two different weights	
 Word Ladder II	
 Word Ladder I	
-Knight On Chess Board	
-
-
+Knight On Chess Board
